@@ -12,7 +12,7 @@ Everyone interacting in the Open Systems Pharmacology community (codebases, issu
 We encourage contribution to the Open Systems Pharmacology community. Before getting started please read the [contribution guidelines](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CONTRIBUTING.md#ways-to-contribute). If you are contributing code, please be familiar with the [coding standard](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODING_STANDARDS.md#visual-studio-settings).
 
 ## License
-The IFN-alpha model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
+The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ## References
 [1] [Kalra P, Brandl J, Gaub T, Niederalt C, Lippert J, Sahle S, et al. (2019) Quantitative systems pharmacology of interferon alpha administration: A multi-scale approach. PLoS ONE 14(2): e0209587. https://doi.org/10.1371/journal.pone.0209587](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209587)
